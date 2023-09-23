@@ -1,0 +1,98 @@
+{
+  "customers": [
+    {
+      "fname": "john",
+      "address": "fake addess",
+      "mobile": "9898989898",
+      "id": 1
+    },
+    {
+      "fname": "kate",
+      "address": "new address",
+      "mobile": "4545454545",
+      "id": 2
+    },
+    {
+      "fname": "ross",
+      "address": "new street",
+      "mobile": "122123123",
+      "id": 3
+    },
+    {
+      "fname": "Tushar",
+      "address": "kranti chowck",
+      "mobile": "9284956552",
+      "id": 4
+    },
+    {
+      "fname": "Shejul ",
+      "address": "kranti chowck",
+      "mobile": "9284956552",
+      "id": 5
+    },
+    {
+      "address": "fakc address",
+      "fname": "Sanket ",
+      "mobile": "1245678",
+      "id": 6
+    },
+    {
+      "fname": "Ram",
+      "address": "kranti chowck",
+      "mobile": "9284956552",
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "jars": "3",
+      "date": "2023-09-22",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "jars": "6",
+      "date": "2023-09-23",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "jars": "12",
+      "date": "2023-09-22",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "jars": "10",
+      "date": "2023-09-24",
+      "userId": 4,
+      "id": 6
+    },
+    {
+      "jars": "15",
+      "date": "2023-09-28",
+      "userId": 5,
+      "id": 7
+    },
+    {
+      "jars": "12",
+      "date": "2023-09-15",
+      "userId": 5,
+      "id": 8
+    },
+    {
+      "jars": "25",
+      "date": "2023-09-21",
+      "userId": 7,
+      "id": 9
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": 123
+    }
+  ]
+}
